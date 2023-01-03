@@ -1,7 +1,12 @@
-# Minerva #
-a full-stack web application used to share, react to and dispute facts.
-built with html, css, vanilla Js along with react.
-Connected to a Supabase database that stores all the facts along with sources and reactions.
-deployed publicly on netify
+# Minerva 
+A full-stack web application serves as a platform to share facts and their sources, interact with posts and dispute the false ones.
 
-# https://minervaa.netlify.app/ #
+# Features:
+* Built from scratch using html, CSS, vanilla javascript and React.
+* Used supabase to handle storing the data and created simple authorization protocol.
+* Deployed publicly on netify.
+
+# https://minervaa.netlify.app/ 
+
+# To be improved:
+* Improve the security by implementing a user sign-in option for votes validation and general security reasons.
