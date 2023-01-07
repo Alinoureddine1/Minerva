@@ -4,7 +4,7 @@ A full-stack web application serves as a platform to share facts and their sourc
 # Features:
 * Built from scratch using html, CSS, vanilla javascript and React.
 * Used supabase to handle storing the data and created simple authorization protocol.
-* Deployed publicly on netify.
+* Deployed publicly on netlify.
 
 # https://minervaa.netlify.app/ 
 
